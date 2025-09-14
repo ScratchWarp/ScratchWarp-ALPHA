@@ -1,0 +1,23 @@
+.licenses {
+  height: 100%;
+  min-height: 100vh;
+  overflow-y: auto;
+}
+
+.licenses-block {
+  padding: 2rem;
+}
+
+.licenses-body h2 {
+  font-family: "Sora", sans-serif;
+  font-weight: 600;
+}
+
+.licenses-body pre {
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+
+#loading {
+  display: none;
+}

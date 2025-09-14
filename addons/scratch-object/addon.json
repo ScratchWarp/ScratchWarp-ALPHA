@@ -1,0 +1,15 @@
+{
+	"name": "Cloned Scratch Object",
+	"description": "Adds a Scratch object which is a cloned Scratch object from Turbowarp.",
+	"credits": [
+		{
+		  "name": "Wetogeter",
+		  "link": "scratch.mit.edu/users/wetogeter"
+		}
+	],
+	"userscripts": [
+		{ "url": "userscripts.js", "matches": ["projects"] }
+	],
+	"tags": ["editor", "codeEditor", "featured"],
+	"libraries": ["scratch-gui", "scratch-vm"]
+}
