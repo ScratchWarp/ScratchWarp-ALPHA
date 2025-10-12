@@ -1,0 +1,15 @@
+{
+	"name": "Run JS",
+	"description": Run JavaScript on Scratch! NOTE: Very careful, They can stole your data!",
+	"credits": [
+		{
+		  "name": "Wetogeter",
+		  "link": "scratch.mit.edu/users/wetogeter"
+		}
+	],
+	"userscripts": [
+		{ "url": "userscripts.js", "matches": ["projects"] }
+	],
+	"tags": ["editor", "codeEditor", "featured"],
+	"libraries": ["scratch-gui", "scratch-vm"]
+}
